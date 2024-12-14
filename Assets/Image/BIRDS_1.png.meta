@@ -1026,7 +1026,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BIRDS_1_43
+      name: PigUse
       rect:
         serializedVersion: 2
         x: 281
@@ -1719,11 +1719,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BIRDS_1_76
+      name: BlackBird
       rect:
         serializedVersion: 2
-        x: 860
-        y: 436
+        x: 861
+        y: 437
         width: 61
         height: 81
       alignment: 0
@@ -2181,7 +2181,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BIRDS_1_98
+      name: RedBird
       rect:
         serializedVersion: 2
         x: 281
@@ -4096,7 +4096,6 @@ TextureImporter:
       BIRDS_1_40: 264057424
       BIRDS_1_41: -627590683
       BIRDS_1_42: 816057714
-      BIRDS_1_43: -1404373582
       BIRDS_1_44: 1039427427
       BIRDS_1_45: -57319438
       BIRDS_1_46: -1059224518
@@ -4132,7 +4131,6 @@ TextureImporter:
       BIRDS_1_73: 1496662203
       BIRDS_1_74: 1451069085
       BIRDS_1_75: -1054941757
-      BIRDS_1_76: -1263234915
       BIRDS_1_77: 1277417883
       BIRDS_1_78: -1346137635
       BIRDS_1_79: -624815704
@@ -4155,8 +4153,10 @@ TextureImporter:
       BIRDS_1_95: -1885027369
       BIRDS_1_96: 1225653299
       BIRDS_1_97: 1743699444
-      BIRDS_1_98: 115226638
       BIRDS_1_99: 925853676
+      BlackBird: -1263234915
+      PigUse: -1404373582
+      RedBird: 115226638
       Slingshot_Left: -1049092855
       Slingshot_Right: 1540313784
   mipmapLimitGroupName: 
